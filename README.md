@@ -1,3 +1,7 @@
+
+                                                                                                  AirPaint
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
  steps for building an Air Canvas using OpenCV and Mediapipe for hand landmarks detection and tracking:
 
 Install the necessary requirements: Python 3, NumPy, OpenCV, and Mediapipe.
