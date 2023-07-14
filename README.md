@@ -1,5 +1,5 @@
 
-                                                                                                  AirPaint
+          # AirPaint                      
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  * Steps for building an Air Canvas using OpenCV and Mediapipe for hand landmarks detection and tracking:
